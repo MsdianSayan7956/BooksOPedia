@@ -27,10 +27,6 @@ BooksOPedia is a chatbot that suggests books based on user preferences like genr
 - Start the chatbot and input your book preferences.
 - Select a book from the suggestions and proceed to Amazon for purchase.
 
-## Contact
-
-For questions or feedback, email us at contact@booksopedia.com.
-
 ---
 
 Happy reading with BooksOPedia!
